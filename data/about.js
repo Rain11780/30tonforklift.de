@@ -1,57 +1,57 @@
 export const about = {
 	header: {
-		title: "About Us",
-		focus: "About",
-		description: "Founded in March 2010, SOCMA (Fujian SouthChina Heavy Machinery Manufacture Co., Ltd.) is a high-tech enterprise based in Quanzhou, Fujian Province. We specialize in logistics handling and electric construction machinery, offering innovative solutions like heavy forklifts, off-road forklifts, telescopic forklifts, port machinery, electric excavators, and loaders."
+		title: "Über Uns",
+		focus: "Über",
+		description: "Gegründet im März 2010, ist SOCMA (Fujian SouthChina Heavy Machinery Manufacture Co., Ltd.) ein High-Tech-Unternehmen mit Sitz in Quanzhou, Provinz Fujian. Wir sind spezialisiert auf Logistikhandling und elektrische Baumaschinen und bieten innovative Lösungen wie schwere Gabelstapler, Geländestapler, Teleskopstapler, Hafenmaschinen, elektrische Bagger und Lader."
 	},
 	about_us: {
-		title: "Who We Are",
+		title: "Wer Wir Sind",
 		image: "https://image.30tonforklift.com/home/about-us.jpg",
 		description: [
-			"SOCMA, founded in 2010 in Quanzhou, Fujian, is a high-tech leader in logistics handling and electric construction machinery. We produce heavy forklifts, off-road forklifts, telescopic forklifts, port machinery, and electric excavators, serving industries globally.",
-			"We export to over 40 countries across Europe, South America, Southeast Asia, the Middle East, and Africa. Known for quick customer response and high-quality customization, SOCMA is a trusted partner in mining, ports, logistics, and manufacturing, delivering reliable solutions.",
-			"Our mission is to provide cutting-edge machinery while staying customer-centric. Collaborating with the Chinese Academy of Sciences, we innovate with technologies like new energy and electric control, aiming to make SOCMA a globally respected brand."
+			"SOCMA, gegründet 2010 in Quanzhou, Fujian, ist ein führendes High-Tech-Unternehmen im Bereich Logistikhandling und elektrische Baumaschinen. Wir produzieren schwere Gabelstapler, Geländestapler, Teleskopstapler, Hafenmaschinen und elektrische Bagger und bedienen Industrien weltweit.",
+			"Wir exportieren in über 40 Länder in Europa, Südamerika, Südostasien, den Nahen Osten und Afrika. Bekannt für schnelle Kundenreaktionen und hochwertige Anpassungen, ist SOCMA ein verlässlicher Partner in Bergbau, Häfen, Logistik und Fertigung und liefert zuverlässige Lösungen.",
+			"Unsere Mission ist es, hochmoderne Maschinen zu liefern und dabei kundenorientiert zu bleiben. In Zusammenarbeit mit der Chinesischen Akademie der Wissenschaften innovieren wir mit Technologien wie neue Energien und elektrische Steuerung, mit dem Ziel, SOCMA zu einer weltweit angesehenen Marke zu machen."
 		]
 	},
 	vision_value: [
 		{
-			title: "Our Mission",
-			description: "To provide customers with leading logistics handling machinery and electric construction machinery products and services."
+			title: "Unsere Mission",
+			description: "Kunden mit führenden Produkten und Dienstleistungen im Bereich Logistikhandling und elektrische Baumaschinen zu versorgen."
 		},
 		{
-			title: "Our Vision",
-			description: "To make SOCMA globally respected brand."
+			title: "Unsere Vision",
+			description: "SOCMA zu einer weltweit angesehenen Marke zu machen."
 		},
 		{
-			title: "Our Values",
-			description: "Customer-centric, people-oriented, self-critical and reflective, SOCMA will remain in the growth stage."
+			title: "Unsere Werte",
+			description: "Kundenorientiert, menschenzentriert, selbstkritisch und reflektierend, wird SOCMA in der Wachstumsphase bleiben."
 		}
 	],
 	why_choose_us: {
-		title: "Why Choose Us",
+		title: "Warum Uns Wählen",
 		image: "https://image.30tonforklift.com/home/why-choose-us.jpg",
 		description: [
-			"SOCMA’s 30 ton forklifts are built for heavy-duty performance, offering unmatched reliability in industries like mining and steel handling. With advanced technology and durable design, our forklifts ensure efficient operations under tough conditions.",
-			"We prioritize customization, tailoring each 30 ton forklift to your needs with attachments like tire clamps or electromagnets. Our global supply chain sources top-quality components, ensuring your equipment meets the highest standards.",
-			"Our customer-centric approach means quick responses and dedicated support. From consultation to after-sales, SOCMA ensures your 30 ton forklift delivers long-term value, backed by innovation and a global network."
+			"Die 30-Tonnen-Gabelstapler von SOCMA sind für schwere Einsätze ausgelegt und bieten unübertroffene Zuverlässigkeit in Branchen wie Bergbau und Stahlhandling. Mit fortschrittlicher Technologie und robustem Design gewährleisten unsere Gabelstapler effiziente Abläufe unter schwierigen Bedingungen.",
+			"Wir legen Wert auf Individualisierung und passen jeden 30-Tonnen-Gabelstapler mit Anbaugeräten wie Reifenklemmen oder Elektromagneten an Ihre Bedürfnisse an. Unsere globale Lieferkette beschafft hochwertige Komponenten, um sicherzustellen, dass Ihre Ausrüstung höchsten Standards entspricht.",
+			"Unser kundenorientierter Ansatz bedeutet schnelle Reaktionen und engagierten Support. Von der Beratung bis zum Kundendienst stellt SOCMA sicher, dass Ihr 30-Tonnen-Gabelstapler langfristigen Wert bietet, unterstützt durch Innovation und ein globales Netzwerk."
 		]
 	},
 	our_capabilities: [
 		{
-			title: "Superior Durability",
-			description: "Our 30 ton forklifts are engineered for tough environments, ensuring long-lasting performance."
+			title: "Überlegene Haltbarkeit",
+			description: "Unsere 30-Tonnen-Gabelstapler sind für raue Umgebungen ausgelegt und gewährleisten langanhaltende Leistung."
 		},
 		{
-			title: "Custom Solutions",
-			description: "We tailor each 30 ton forklift with attachments to meet your specific industry needs."
+			title: "Maßgeschneiderte Lösungen",
+			description: "Wir passen jeden 30-Tonnen-Gabelstapler mit Anbaugeräten an die spezifischen Bedürfnisse Ihrer Branche an."
 		},
 		{
-			title: "Global Expertise",
-			description: "With exports to 40+ countries, we bring global standards to every 30 ton forklift."
+			title: "Globale Expertise",
+			description: "Mit Exporten in über 40 Länder bringen wir globale Standards in jeden 30-Tonnen-Gabelstapler."
 		},
 		{
-			title: "Dedicated Support",
-			description: "SOCMA offers responsive service, ensuring your 30 ton forklift runs smoothly."
+			title: "Engagierter Support",
+			description: "SOCMA bietet reaktionsschnellen Service, um sicherzustellen, dass Ihr 30-Tonnen-Gabelstapler reibungslos läuft."
 		}
 	]
 };
