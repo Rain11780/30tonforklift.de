@@ -8,9 +8,9 @@ import FAQ from "@/components/features/faq";
 
 // Metadata
 export const metadata = {
-	title: "SOCMA | 30 Ton Forklift Built for Your Toughest Challenges",
-	description: "Power up your operations with a 30 ton forklift designed for heavy-duty industries. From coal mining tire handling to steel smelting with electromagnets, stone quarrying, and container logistics, SOCMA’s HNF-300 delivers unmatched reliability. Looking for a 30 ton forklift for sale or 30 ton forklift rental? We’ve got you covered – whether in Sydney, Montgomery, or beyond."
-};
+	title: "SOCMA | 30-Tonnen-Gabelstapler für Ihre härtesten Herausforderungen",
+	description: "Stärken Sie Ihre Betriebsabläufe mit einem 30-Tonnen-Gabelstapler, der für schwere Industrieeinsätze entwickelt wurde. Ob Reifenhandling im Kohlebergbau, Einsatz im Stahlwerk mit Elektromagneten, Steinbrucharbeit oder Containerlogistik – der HNF-300 von SOCMA bietet unschlagbare Zuverlässigkeit. Auf der Suche nach einem 30-Tonnen-Gabelstapler zur Miete oder zum Kauf – in Sydney, Montgomery oder darüber hinaus? Wir haben, was Sie brauchen."
+  };
 
 // Structured Data
 const jsonLd = {
